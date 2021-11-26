@@ -1,5 +1,5 @@
 # PyTorch-MNIST
-适合初学者练习PyTorch，该模型的正确率为99.5
+适合初学者练习PyTorch，在MNIST数据集该模型的正确率为99.5
 
 # 使用环境配置
 ### 1.首先使用conda 创建一个python3.8的环境 
