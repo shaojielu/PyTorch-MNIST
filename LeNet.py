@@ -30,7 +30,6 @@ train_tfm = transforms.Compose(
 log_interval = 10
 n_epochs = 10
 batch_size = 128
-# batch_size_test = 128
 random_seed = 1
 torch.manual_seed(random_seed)
 
